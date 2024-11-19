@@ -1,6 +1,6 @@
 # README
 
-![image](https://github.com/user-attachments/assets/c3a4a448-0ee8-4caa-a276-36c28a3e468c)
+[![DOI](https://zenodo.org/badge/890911212.svg)](https://doi.org/10.5281/zenodo.14186448)
 
 - Scripts for custom analyses of Vinel et al. BMC publication.
 - Scripts contained within DiffBind, Rcade, avg_tracks were authored by [WeiweiJin](https://github.com/WeiweiJin)
